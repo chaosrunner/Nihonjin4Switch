@@ -1,0 +1,266 @@
+[
+  {
+    "directory": "/home/harry/Documents/GitHub/borealis/build",
+    "command": "c++ -Iborealis_example@exe -I. -I.. -I../library/include -I../library/include/borealis/extern/glad -I../library/include/borealis/extern/nanovg -I../library/include/borealis/extern/libretro-common -I../library/lib/extern/fmt/include -I../example -fdiagnostics-color=always -DNDEBUG -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -std=c++1z -O3 -g -O2 '-DBOREALIS_RESOURCES=\"./resources/\"' -MD -MQ 'borealis_example@exe/example_main.cpp.o' -MF 'borealis_example@exe/example_main.cpp.o.d' -o 'borealis_example@exe/example_main.cpp.o' -c ../example/main.cpp",
+    "file": "../example/main.cpp",
+    "output": "borealis_example@exe/example_main.cpp.o"
+  },
+  {
+    "directory": "/home/harry/Documents/GitHub/borealis/build",
+    "command": "c++ -Iborealis_example@exe -I. -I.. -I../library/include -I../library/include/borealis/extern/glad -I../library/include/borealis/extern/nanovg -I../library/include/borealis/extern/libretro-common -I../library/lib/extern/fmt/include -I../example -fdiagnostics-color=always -DNDEBUG -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -std=c++1z -O3 -g -O2 '-DBOREALIS_RESOURCES=\"./resources/\"' -MD -MQ 'borealis_example@exe/example_sample_installer_page.cpp.o' -MF 'borealis_example@exe/example_sample_installer_page.cpp.o.d' -o 'borealis_example@exe/example_sample_installer_page.cpp.o' -c ../example/sample_installer_page.cpp",
+    "file": "../example/sample_installer_page.cpp",
+    "output": "borealis_example@exe/example_sample_installer_page.cpp.o"
+  },
+  {
+    "directory": "/home/harry/Documents/GitHub/borealis/build",
+    "command": "c++ -Iborealis_example@exe -I. -I.. -I../library/include -I../library/include/borealis/extern/glad -I../library/include/borealis/extern/nanovg -I../library/include/borealis/extern/libretro-common -I../library/lib/extern/fmt/include -I../example -fdiagnostics-color=always -DNDEBUG -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -std=c++1z -O3 -g -O2 '-DBOREALIS_RESOURCES=\"./resources/\"' -MD -MQ 'borealis_example@exe/example_sample_loading_page.cpp.o' -MF 'borealis_example@exe/example_sample_loading_page.cpp.o.d' -o 'borealis_example@exe/example_sample_loading_page.cpp.o' -c ../example/sample_loading_page.cpp",
+    "file": "../example/sample_loading_page.cpp",
+    "output": "borealis_example@exe/example_sample_loading_page.cpp.o"
+  },
+  {
+    "directory": "/home/harry/Documents/GitHub/borealis/build",
+    "command": "cc -Iborealis_example@exe -I. -I.. -I../library/include -I../library/include/borealis/extern/glad -I../library/include/borealis/extern/nanovg -I../library/include/borealis/extern/libretro-common -I../library/lib/extern/fmt/include -I../example -fdiagnostics-color=always -DNDEBUG -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -MD -MQ 'borealis_example@exe/library_lib_extern_glad_glad.c.o' -MF 'borealis_example@exe/library_lib_extern_glad_glad.c.o.d' -o 'borealis_example@exe/library_lib_extern_glad_glad.c.o' -c ../library/lib/extern/glad/glad.c",
+    "file": "../library/lib/extern/glad/glad.c",
+    "output": "borealis_example@exe/library_lib_extern_glad_glad.c.o"
+  },
+  {
+    "directory": "/home/harry/Documents/GitHub/borealis/build",
+    "command": "cc -Iborealis_example@exe -I. -I.. -I../library/include -I../library/include/borealis/extern/glad -I../library/include/borealis/extern/nanovg -I../library/include/borealis/extern/libretro-common -I../library/lib/extern/fmt/include -I../example -fdiagnostics-color=always -DNDEBUG -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -MD -MQ 'borealis_example@exe/library_lib_extern_nanovg_nanovg.c.o' -MF 'borealis_example@exe/library_lib_extern_nanovg_nanovg.c.o.d' -o 'borealis_example@exe/library_lib_extern_nanovg_nanovg.c.o' -c ../library/lib/extern/nanovg/nanovg.c",
+    "file": "../library/lib/extern/nanovg/nanovg.c",
+    "output": "borealis_example@exe/library_lib_extern_nanovg_nanovg.c.o"
+  },
+  {
+    "directory": "/home/harry/Documents/GitHub/borealis/build",
+    "command": "c++ -Iborealis_example@exe -I. -I.. -I../library/include -I../library/include/borealis/extern/glad -I../library/include/borealis/extern/nanovg -I../library/include/borealis/extern/libretro-common -I../library/lib/extern/fmt/include -I../example -fdiagnostics-color=always -DNDEBUG -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -std=c++1z -O3 -g -O2 '-DBOREALIS_RESOURCES=\"./resources/\"' -MD -MQ 'borealis_example@exe/library_lib_extern_fmt_src_format.cc.o' -MF 'borealis_example@exe/library_lib_extern_fmt_src_format.cc.o.d' -o 'borealis_example@exe/library_lib_extern_fmt_src_format.cc.o' -c ../library/lib/extern/fmt/src/format.cc",
+    "file": "../library/lib/extern/fmt/src/format.cc",
+    "output": "borealis_example@exe/library_lib_extern_fmt_src_format.cc.o"
+  },
+  {
+    "directory": "/home/harry/Documents/GitHub/borealis/build",
+    "command": "c++ -Iborealis_example@exe -I. -I.. -I../library/include -I../library/include/borealis/extern/glad -I../library/include/borealis/extern/nanovg -I../library/include/borealis/extern/libretro-common -I../library/lib/extern/fmt/include -I../example -fdiagnostics-color=always -DNDEBUG -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -std=c++1z -O3 -g -O2 '-DBOREALIS_RESOURCES=\"./resources/\"' -MD -MQ 'borealis_example@exe/library_lib_extern_fmt_src_os.cc.o' -MF 'borealis_example@exe/library_lib_extern_fmt_src_os.cc.o.d' -o 'borealis_example@exe/library_lib_extern_fmt_src_os.cc.o' -c ../library/lib/extern/fmt/src/os.cc",
+    "file": "../library/lib/extern/fmt/src/os.cc",
+    "output": "borealis_example@exe/library_lib_extern_fmt_src_os.cc.o"
+  },
+  {
+    "directory": "/home/harry/Documents/GitHub/borealis/build",
+    "command": "cc -Iborealis_example@exe -I. -I.. -I../library/include -I../library/include/borealis/extern/glad -I../library/include/borealis/extern/nanovg -I../library/include/borealis/extern/libretro-common -I../library/lib/extern/fmt/include -I../example -fdiagnostics-color=always -DNDEBUG -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -MD -MQ 'borealis_example@exe/library_lib_extern_libretro-common_compat_compat_strl.c.o' -MF 'borealis_example@exe/library_lib_extern_libretro-common_compat_compat_strl.c.o.d' -o 'borealis_example@exe/library_lib_extern_libretro-common_compat_compat_strl.c.o' -c ../library/lib/extern/libretro-common/compat/compat_strl.c",
+    "file": "../library/lib/extern/libretro-common/compat/compat_strl.c",
+    "output": "borealis_example@exe/library_lib_extern_libretro-common_compat_compat_strl.c.o"
+  },
+  {
+    "directory": "/home/harry/Documents/GitHub/borealis/build",
+    "command": "cc -Iborealis_example@exe -I. -I.. -I../library/include -I../library/include/borealis/extern/glad -I../library/include/borealis/extern/nanovg -I../library/include/borealis/extern/libretro-common -I../library/lib/extern/fmt/include -I../example -fdiagnostics-color=always -DNDEBUG -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -MD -MQ 'borealis_example@exe/library_lib_extern_libretro-common_features_features_cpu.c.o' -MF 'borealis_example@exe/library_lib_extern_libretro-common_features_features_cpu.c.o.d' -o 'borealis_example@exe/library_lib_extern_libretro-common_features_features_cpu.c.o' -c ../library/lib/extern/libretro-common/features/features_cpu.c",
+    "file": "../library/lib/extern/libretro-common/features/features_cpu.c",
+    "output": "borealis_example@exe/library_lib_extern_libretro-common_features_features_cpu.c.o"
+  },
+  {
+    "directory": "/home/harry/Documents/GitHub/borealis/build",
+    "command": "cc -Iborealis_example@exe -I. -I.. -I../library/include -I../library/include/borealis/extern/glad -I../library/include/borealis/extern/nanovg -I../library/include/borealis/extern/libretro-common -I../library/lib/extern/fmt/include -I../example -fdiagnostics-color=always -DNDEBUG -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -MD -MQ 'borealis_example@exe/library_lib_extern_libretro-common_encodings_encoding_utf.c.o' -MF 'borealis_example@exe/library_lib_extern_libretro-common_encodings_encoding_utf.c.o.d' -o 'borealis_example@exe/library_lib_extern_libretro-common_encodings_encoding_utf.c.o' -c ../library/lib/extern/libretro-common/encodings/encoding_utf.c",
+    "file": "../library/lib/extern/libretro-common/encodings/encoding_utf.c",
+    "output": "borealis_example@exe/library_lib_extern_libretro-common_encodings_encoding_utf.c.o"
+  },
+  {
+    "directory": "/home/harry/Documents/GitHub/borealis/build",
+    "command": "c++ -Iborealis_example@exe -I. -I.. -I../library/include -I../library/include/borealis/extern/glad -I../library/include/borealis/extern/nanovg -I../library/include/borealis/extern/libretro-common -I../library/lib/extern/fmt/include -I../example -fdiagnostics-color=always -DNDEBUG -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -std=c++1z -O3 -g -O2 '-DBOREALIS_RESOURCES=\"./resources/\"' -MD -MQ 'borealis_example@exe/library_lib_application.cpp.o' -MF 'borealis_example@exe/library_lib_application.cpp.o.d' -o 'borealis_example@exe/library_lib_application.cpp.o' -c ../library/lib/application.cpp",
+    "file": "../library/lib/application.cpp",
+    "output": "borealis_example@exe/library_lib_application.cpp.o"
+  },
+  {
+    "directory": "/home/harry/Documents/GitHub/borealis/build",
+    "command": "c++ -Iborealis_example@exe -I. -I.. -I../library/include -I../library/include/borealis/extern/glad -I../library/include/borealis/extern/nanovg -I../library/include/borealis/extern/libretro-common -I../library/lib/extern/fmt/include -I../example -fdiagnostics-color=always -DNDEBUG -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -std=c++1z -O3 -g -O2 '-DBOREALIS_RESOURCES=\"./resources/\"' -MD -MQ 'borealis_example@exe/library_lib_view.cpp.o' -MF 'borealis_example@exe/library_lib_view.cpp.o.d' -o 'borealis_example@exe/library_lib_view.cpp.o' -c ../library/lib/view.cpp",
+    "file": "../library/lib/view.cpp",
+    "output": "borealis_example@exe/library_lib_view.cpp.o"
+  },
+  {
+    "directory": "/home/harry/Documents/GitHub/borealis/build",
+    "command": "c++ -Iborealis_example@exe -I. -I.. -I../library/include -I../library/include/borealis/extern/glad -I../library/include/borealis/extern/nanovg -I../library/include/borealis/extern/libretro-common -I../library/lib/extern/fmt/include -I../example -fdiagnostics-color=always -DNDEBUG -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -std=c++1z -O3 -g -O2 '-DBOREALIS_RESOURCES=\"./resources/\"' -MD -MQ 'borealis_example@exe/library_lib_applet_frame.cpp.o' -MF 'borealis_example@exe/library_lib_applet_frame.cpp.o.d' -o 'borealis_example@exe/library_lib_applet_frame.cpp.o' -c ../library/lib/applet_frame.cpp",
+    "file": "../library/lib/applet_frame.cpp",
+    "output": "borealis_example@exe/library_lib_applet_frame.cpp.o"
+  },
+  {
+    "directory": "/home/harry/Documents/GitHub/borealis/build",
+    "command": "c++ -Iborealis_example@exe -I. -I.. -I../library/include -I../library/include/borealis/extern/glad -I../library/include/borealis/extern/nanovg -I../library/include/borealis/extern/libretro-common -I../library/lib/extern/fmt/include -I../example -fdiagnostics-color=always -DNDEBUG -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -std=c++1z -O3 -g -O2 '-DBOREALIS_RESOURCES=\"./resources/\"' -MD -MQ 'borealis_example@exe/library_lib_theme.cpp.o' -MF 'borealis_example@exe/library_lib_theme.cpp.o.d' -o 'borealis_example@exe/library_lib_theme.cpp.o' -c ../library/lib/theme.cpp",
+    "file": "../library/lib/theme.cpp",
+    "output": "borealis_example@exe/library_lib_theme.cpp.o"
+  },
+  {
+    "directory": "/home/harry/Documents/GitHub/borealis/build",
+    "command": "c++ -Iborealis_example@exe -I. -I.. -I../library/include -I../library/include/borealis/extern/glad -I../library/include/borealis/extern/nanovg -I../library/include/borealis/extern/libretro-common -I../library/lib/extern/fmt/include -I../example -fdiagnostics-color=always -DNDEBUG -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -std=c++1z -O3 -g -O2 '-DBOREALIS_RESOURCES=\"./resources/\"' -MD -MQ 'borealis_example@exe/library_lib_tab_frame.cpp.o' -MF 'borealis_example@exe/library_lib_tab_frame.cpp.o.d' -o 'borealis_example@exe/library_lib_tab_frame.cpp.o' -c ../library/lib/tab_frame.cpp",
+    "file": "../library/lib/tab_frame.cpp",
+    "output": "borealis_example@exe/library_lib_tab_frame.cpp.o"
+  },
+  {
+    "directory": "/home/harry/Documents/GitHub/borealis/build",
+    "command": "c++ -Iborealis_example@exe -I. -I.. -I../library/include -I../library/include/borealis/extern/glad -I../library/include/borealis/extern/nanovg -I../library/include/borealis/extern/libretro-common -I../library/lib/extern/fmt/include -I../example -fdiagnostics-color=always -DNDEBUG -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -std=c++1z -O3 -g -O2 '-DBOREALIS_RESOURCES=\"./resources/\"' -MD -MQ 'borealis_example@exe/library_lib_rectangle.cpp.o' -MF 'borealis_example@exe/library_lib_rectangle.cpp.o.d' -o 'borealis_example@exe/library_lib_rectangle.cpp.o' -c ../library/lib/rectangle.cpp",
+    "file": "../library/lib/rectangle.cpp",
+    "output": "borealis_example@exe/library_lib_rectangle.cpp.o"
+  },
+  {
+    "directory": "/home/harry/Documents/GitHub/borealis/build",
+    "command": "c++ -Iborealis_example@exe -I. -I.. -I../library/include -I../library/include/borealis/extern/glad -I../library/include/borealis/extern/nanovg -I../library/include/borealis/extern/libretro-common -I../library/lib/extern/fmt/include -I../example -fdiagnostics-color=always -DNDEBUG -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -std=c++1z -O3 -g -O2 '-DBOREALIS_RESOURCES=\"./resources/\"' -MD -MQ 'borealis_example@exe/library_lib_box_layout.cpp.o' -MF 'borealis_example@exe/library_lib_box_layout.cpp.o.d' -o 'borealis_example@exe/library_lib_box_layout.cpp.o' -c ../library/lib/box_layout.cpp",
+    "file": "../library/lib/box_layout.cpp",
+    "output": "borealis_example@exe/library_lib_box_layout.cpp.o"
+  },
+  {
+    "directory": "/home/harry/Documents/GitHub/borealis/build",
+    "command": "c++ -Iborealis_example@exe -I. -I.. -I../library/include -I../library/include/borealis/extern/glad -I../library/include/borealis/extern/nanovg -I../library/include/borealis/extern/libretro-common -I../library/lib/extern/fmt/include -I../example -fdiagnostics-color=always -DNDEBUG -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -std=c++1z -O3 -g -O2 '-DBOREALIS_RESOURCES=\"./resources/\"' -MD -MQ 'borealis_example@exe/library_lib_sidebar.cpp.o' -MF 'borealis_example@exe/library_lib_sidebar.cpp.o.d' -o 'borealis_example@exe/library_lib_sidebar.cpp.o' -c ../library/lib/sidebar.cpp",
+    "file": "../library/lib/sidebar.cpp",
+    "output": "borealis_example@exe/library_lib_sidebar.cpp.o"
+  },
+  {
+    "directory": "/home/harry/Documents/GitHub/borealis/build",
+    "command": "c++ -Iborealis_example@exe -I. -I.. -I../library/include -I../library/include/borealis/extern/glad -I../library/include/borealis/extern/nanovg -I../library/include/borealis/extern/libretro-common -I../library/lib/extern/fmt/include -I../example -fdiagnostics-color=always -DNDEBUG -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -std=c++1z -O3 -g -O2 '-DBOREALIS_RESOURCES=\"./resources/\"' -MD -MQ 'borealis_example@exe/library_lib_animations.cpp.o' -MF 'borealis_example@exe/library_lib_animations.cpp.o.d' -o 'borealis_example@exe/library_lib_animations.cpp.o' -c ../library/lib/animations.cpp",
+    "file": "../library/lib/animations.cpp",
+    "output": "borealis_example@exe/library_lib_animations.cpp.o"
+  },
+  {
+    "directory": "/home/harry/Documents/GitHub/borealis/build",
+    "command": "c++ -Iborealis_example@exe -I. -I.. -I../library/include -I../library/include/borealis/extern/glad -I../library/include/borealis/extern/nanovg -I../library/include/borealis/extern/libretro-common -I../library/lib/extern/fmt/include -I../example -fdiagnostics-color=always -DNDEBUG -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -std=c++1z -O3 -g -O2 '-DBOREALIS_RESOURCES=\"./resources/\"' -MD -MQ 'borealis_example@exe/library_lib_style.cpp.o' -MF 'borealis_example@exe/library_lib_style.cpp.o.d' -o 'borealis_example@exe/library_lib_style.cpp.o' -c ../library/lib/style.cpp",
+    "file": "../library/lib/style.cpp",
+    "output": "borealis_example@exe/library_lib_style.cpp.o"
+  },
+  {
+    "directory": "/home/harry/Documents/GitHub/borealis/build",
+    "command": "c++ -Iborealis_example@exe -I. -I.. -I../library/include -I../library/include/borealis/extern/glad -I../library/include/borealis/extern/nanovg -I../library/include/borealis/extern/libretro-common -I../library/lib/extern/fmt/include -I../example -fdiagnostics-color=always -DNDEBUG -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -std=c++1z -O3 -g -O2 '-DBOREALIS_RESOURCES=\"./resources/\"' -MD -MQ 'borealis_example@exe/library_lib_list.cpp.o' -MF 'borealis_example@exe/library_lib_list.cpp.o.d' -o 'borealis_example@exe/library_lib_list.cpp.o' -c ../library/lib/list.cpp",
+    "file": "../library/lib/list.cpp",
+    "output": "borealis_example@exe/library_lib_list.cpp.o"
+  },
+  {
+    "directory": "/home/harry/Documents/GitHub/borealis/build",
+    "command": "c++ -Iborealis_example@exe -I. -I.. -I../library/include -I../library/include/borealis/extern/glad -I../library/include/borealis/extern/nanovg -I../library/include/borealis/extern/libretro-common -I../library/lib/extern/fmt/include -I../example -fdiagnostics-color=always -DNDEBUG -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -std=c++1z -O3 -g -O2 '-DBOREALIS_RESOURCES=\"./resources/\"' -MD -MQ 'borealis_example@exe/library_lib_label.cpp.o' -MF 'borealis_example@exe/library_lib_label.cpp.o.d' -o 'borealis_example@exe/library_lib_label.cpp.o' -c ../library/lib/label.cpp",
+    "file": "../library/lib/label.cpp",
+    "output": "borealis_example@exe/library_lib_label.cpp.o"
+  },
+  {
+    "directory": "/home/harry/Documents/GitHub/borealis/build",
+    "command": "c++ -Iborealis_example@exe -I. -I.. -I../library/include -I../library/include/borealis/extern/glad -I../library/include/borealis/extern/nanovg -I../library/include/borealis/extern/libretro-common -I../library/lib/extern/fmt/include -I../example -fdiagnostics-color=always -DNDEBUG -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -std=c++1z -O3 -g -O2 '-DBOREALIS_RESOURCES=\"./resources/\"' -MD -MQ 'borealis_example@exe/library_lib_crash_frame.cpp.o' -MF 'borealis_example@exe/library_lib_crash_frame.cpp.o.d' -o 'borealis_example@exe/library_lib_crash_frame.cpp.o' -c ../library/lib/crash_frame.cpp",
+    "file": "../library/lib/crash_frame.cpp",
+    "output": "borealis_example@exe/library_lib_crash_frame.cpp.o"
+  },
+  {
+    "directory": "/home/harry/Documents/GitHub/borealis/build",
+    "command": "c++ -Iborealis_example@exe -I. -I.. -I../library/include -I../library/include/borealis/extern/glad -I../library/include/borealis/extern/nanovg -I../library/include/borealis/extern/libretro-common -I../library/lib/extern/fmt/include -I../example -fdiagnostics-color=always -DNDEBUG -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -std=c++1z -O3 -g -O2 '-DBOREALIS_RESOURCES=\"./resources/\"' -MD -MQ 'borealis_example@exe/library_lib_button.cpp.o' -MF 'borealis_example@exe/library_lib_button.cpp.o.d' -o 'borealis_example@exe/library_lib_button.cpp.o' -c ../library/lib/button.cpp",
+    "file": "../library/lib/button.cpp",
+    "output": "borealis_example@exe/library_lib_button.cpp.o"
+  },
+  {
+    "directory": "/home/harry/Documents/GitHub/borealis/build",
+    "command": "c++ -Iborealis_example@exe -I. -I.. -I../library/include -I../library/include/borealis/extern/glad -I../library/include/borealis/extern/nanovg -I../library/include/borealis/extern/libretro-common -I../library/lib/extern/fmt/include -I../example -fdiagnostics-color=always -DNDEBUG -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -std=c++1z -O3 -g -O2 '-DBOREALIS_RESOURCES=\"./resources/\"' -MD -MQ 'borealis_example@exe/library_lib_table.cpp.o' -MF 'borealis_example@exe/library_lib_table.cpp.o.d' -o 'borealis_example@exe/library_lib_table.cpp.o' -c ../library/lib/table.cpp",
+    "file": "../library/lib/table.cpp",
+    "output": "borealis_example@exe/library_lib_table.cpp.o"
+  },
+  {
+    "directory": "/home/harry/Documents/GitHub/borealis/build",
+    "command": "c++ -Iborealis_example@exe -I. -I.. -I../library/include -I../library/include/borealis/extern/glad -I../library/include/borealis/extern/nanovg -I../library/include/borealis/extern/libretro-common -I../library/lib/extern/fmt/include -I../example -fdiagnostics-color=always -DNDEBUG -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -std=c++1z -O3 -g -O2 '-DBOREALIS_RESOURCES=\"./resources/\"' -MD -MQ 'borealis_example@exe/library_lib_dropdown.cpp.o' -MF 'borealis_example@exe/library_lib_dropdown.cpp.o.d' -o 'borealis_example@exe/library_lib_dropdown.cpp.o' -c ../library/lib/dropdown.cpp",
+    "file": "../library/lib/dropdown.cpp",
+    "output": "borealis_example@exe/library_lib_dropdown.cpp.o"
+  },
+  {
+    "directory": "/home/harry/Documents/GitHub/borealis/build",
+    "command": "c++ -Iborealis_example@exe -I. -I.. -I../library/include -I../library/include/borealis/extern/glad -I../library/include/borealis/extern/nanovg -I../library/include/borealis/extern/libretro-common -I../library/lib/extern/fmt/include -I../example -fdiagnostics-color=always -DNDEBUG -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -std=c++1z -O3 -g -O2 '-DBOREALIS_RESOURCES=\"./resources/\"' -MD -MQ 'borealis_example@exe/library_lib_logger.cpp.o' -MF 'borealis_example@exe/library_lib_logger.cpp.o.d' -o 'borealis_example@exe/library_lib_logger.cpp.o' -c ../library/lib/logger.cpp",
+    "file": "../library/lib/logger.cpp",
+    "output": "borealis_example@exe/library_lib_logger.cpp.o"
+  },
+  {
+    "directory": "/home/harry/Documents/GitHub/borealis/build",
+    "command": "c++ -Iborealis_example@exe -I. -I.. -I../library/include -I../library/include/borealis/extern/glad -I../library/include/borealis/extern/nanovg -I../library/include/borealis/extern/libretro-common -I../library/lib/extern/fmt/include -I../example -fdiagnostics-color=always -DNDEBUG -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -std=c++1z -O3 -g -O2 '-DBOREALIS_RESOURCES=\"./resources/\"' -MD -MQ 'borealis_example@exe/library_lib_staged_applet_frame.cpp.o' -MF 'borealis_example@exe/library_lib_staged_applet_frame.cpp.o.d' -o 'borealis_example@exe/library_lib_staged_applet_frame.cpp.o' -c ../library/lib/staged_applet_frame.cpp",
+    "file": "../library/lib/staged_applet_frame.cpp",
+    "output": "borealis_example@exe/library_lib_staged_applet_frame.cpp.o"
+  },
+  {
+    "directory": "/home/harry/Documents/GitHub/borealis/build",
+    "command": "c++ -Iborealis_example@exe -I. -I.. -I../library/include -I../library/include/borealis/extern/glad -I../library/include/borealis/extern/nanovg -I../library/include/borealis/extern/libretro-common -I../library/lib/extern/fmt/include -I../example -fdiagnostics-color=always -DNDEBUG -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -std=c++1z -O3 -g -O2 '-DBOREALIS_RESOURCES=\"./resources/\"' -MD -MQ 'borealis_example@exe/library_lib_progress_display.cpp.o' -MF 'borealis_example@exe/library_lib_progress_display.cpp.o.d' -o 'borealis_example@exe/library_lib_progress_display.cpp.o' -c ../library/lib/progress_display.cpp",
+    "file": "../library/lib/progress_display.cpp",
+    "output": "borealis_example@exe/library_lib_progress_display.cpp.o"
+  },
+  {
+    "directory": "/home/harry/Documents/GitHub/borealis/build",
+    "command": "c++ -Iborealis_example@exe -I. -I.. -I../library/include -I../library/include/borealis/extern/glad -I../library/include/borealis/extern/nanovg -I../library/include/borealis/extern/libretro-common -I../library/lib/extern/fmt/include -I../example -fdiagnostics-color=always -DNDEBUG -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -std=c++1z -O3 -g -O2 '-DBOREALIS_RESOURCES=\"./resources/\"' -MD -MQ 'borealis_example@exe/library_lib_progress_spinner.cpp.o' -MF 'borealis_example@exe/library_lib_progress_spinner.cpp.o.d' -o 'borealis_example@exe/library_lib_progress_spinner.cpp.o' -c ../library/lib/progress_spinner.cpp",
+    "file": "../library/lib/progress_spinner.cpp",
+    "output": "borealis_example@exe/library_lib_progress_spinner.cpp.o"
+  },
+  {
+    "directory": "/home/harry/Documents/GitHub/borealis/build",
+    "command": "c++ -Iborealis_example@exe -I. -I.. -I../library/include -I../library/include/borealis/extern/glad -I../library/include/borealis/extern/nanovg -I../library/include/borealis/extern/libretro-common -I../library/lib/extern/fmt/include -I../example -fdiagnostics-color=always -DNDEBUG -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -std=c++1z -O3 -g -O2 '-DBOREALIS_RESOURCES=\"./resources/\"' -MD -MQ 'borealis_example@exe/library_lib_image.cpp.o' -MF 'borealis_example@exe/library_lib_image.cpp.o.d' -o 'borealis_example@exe/library_lib_image.cpp.o' -c ../library/lib/image.cpp",
+    "file": "../library/lib/image.cpp",
+    "output": "borealis_example@exe/library_lib_image.cpp.o"
+  },
+  {
+    "directory": "/home/harry/Documents/GitHub/borealis/build",
+    "command": "c++ -Iborealis_example@exe -I. -I.. -I../library/include -I../library/include/borealis/extern/glad -I../library/include/borealis/extern/nanovg -I../library/include/borealis/extern/libretro-common -I../library/lib/extern/fmt/include -I../example -fdiagnostics-color=always -DNDEBUG -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -std=c++1z -O3 -g -O2 '-DBOREALIS_RESOURCES=\"./resources/\"' -MD -MQ 'borealis_example@exe/library_lib_header.cpp.o' -MF 'borealis_example@exe/library_lib_header.cpp.o.d' -o 'borealis_example@exe/library_lib_header.cpp.o' -c ../library/lib/header.cpp",
+    "file": "../library/lib/header.cpp",
+    "output": "borealis_example@exe/library_lib_header.cpp.o"
+  },
+  {
+    "directory": "/home/harry/Documents/GitHub/borealis/build",
+    "command": "c++ -Iborealis_example@exe -I. -I.. -I../library/include -I../library/include/borealis/extern/glad -I../library/include/borealis/extern/nanovg -I../library/include/borealis/extern/libretro-common -I../library/lib/extern/fmt/include -I../example -fdiagnostics-color=always -DNDEBUG -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -std=c++1z -O3 -g -O2 '-DBOREALIS_RESOURCES=\"./resources/\"' -MD -MQ 'borealis_example@exe/library_lib_popup_frame.cpp.o' -MF 'borealis_example@exe/library_lib_popup_frame.cpp.o.d' -o 'borealis_example@exe/library_lib_popup_frame.cpp.o' -c ../library/lib/popup_frame.cpp",
+    "file": "../library/lib/popup_frame.cpp",
+    "output": "borealis_example@exe/library_lib_popup_frame.cpp.o"
+  },
+  {
+    "directory": "/home/harry/Documents/GitHub/borealis/build",
+    "command": "c++ -Iborealis_example@exe -I. -I.. -I../library/include -I../library/include/borealis/extern/glad -I../library/include/borealis/extern/nanovg -I../library/include/borealis/extern/libretro-common -I../library/lib/extern/fmt/include -I../example -fdiagnostics-color=always -DNDEBUG -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -std=c++1z -O3 -g -O2 '-DBOREALIS_RESOURCES=\"./resources/\"' -MD -MQ 'borealis_example@exe/library_lib_thumbnail_frame.cpp.o' -MF 'borealis_example@exe/library_lib_thumbnail_frame.cpp.o.d' -o 'borealis_example@exe/library_lib_thumbnail_frame.cpp.o' -c ../library/lib/thumbnail_frame.cpp",
+    "file": "../library/lib/thumbnail_frame.cpp",
+    "output": "borealis_example@exe/library_lib_thumbnail_frame.cpp.o"
+  },
+  {
+    "directory": "/home/harry/Documents/GitHub/borealis/build",
+    "command": "c++ -Iborealis_example@exe -I. -I.. -I../library/include -I../library/include/borealis/extern/glad -I../library/include/borealis/extern/nanovg -I../library/include/borealis/extern/libretro-common -I../library/lib/extern/fmt/include -I../example -fdiagnostics-color=always -DNDEBUG -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -std=c++1z -O3 -g -O2 '-DBOREALIS_RESOURCES=\"./resources/\"' -MD -MQ 'borealis_example@exe/library_lib_layer_view.cpp.o' -MF 'borealis_example@exe/library_lib_layer_view.cpp.o.d' -o 'borealis_example@exe/library_lib_layer_view.cpp.o' -c ../library/lib/layer_view.cpp",
+    "file": "../library/lib/layer_view.cpp",
+    "output": "borealis_example@exe/library_lib_layer_view.cpp.o"
+  },
+  {
+    "directory": "/home/harry/Documents/GitHub/borealis/build",
+    "command": "c++ -Iborealis_example@exe -I. -I.. -I../library/include -I../library/include/borealis/extern/glad -I../library/include/borealis/extern/nanovg -I../library/include/borealis/extern/libretro-common -I../library/lib/extern/fmt/include -I../example -fdiagnostics-color=always -DNDEBUG -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -std=c++1z -O3 -g -O2 '-DBOREALIS_RESOURCES=\"./resources/\"' -MD -MQ 'borealis_example@exe/library_lib_dialog.cpp.o' -MF 'borealis_example@exe/library_lib_dialog.cpp.o.d' -o 'borealis_example@exe/library_lib_dialog.cpp.o' -c ../library/lib/dialog.cpp",
+    "file": "../library/lib/dialog.cpp",
+    "output": "borealis_example@exe/library_lib_dialog.cpp.o"
+  },
+  {
+    "directory": "/home/harry/Documents/GitHub/borealis/build",
+    "command": "c++ -Iborealis_example@exe -I. -I.. -I../library/include -I../library/include/borealis/extern/glad -I../library/include/borealis/extern/nanovg -I../library/include/borealis/extern/libretro-common -I../library/lib/extern/fmt/include -I../example -fdiagnostics-color=always -DNDEBUG -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -std=c++1z -O3 -g -O2 '-DBOREALIS_RESOURCES=\"./resources/\"' -MD -MQ 'borealis_example@exe/library_lib_material_icon.cpp.o' -MF 'borealis_example@exe/library_lib_material_icon.cpp.o.d' -o 'borealis_example@exe/library_lib_material_icon.cpp.o' -c ../library/lib/material_icon.cpp",
+    "file": "../library/lib/material_icon.cpp",
+    "output": "borealis_example@exe/library_lib_material_icon.cpp.o"
+  },
+  {
+    "directory": "/home/harry/Documents/GitHub/borealis/build",
+    "command": "c++ -Iborealis_example@exe -I. -I.. -I../library/include -I../library/include/borealis/extern/glad -I../library/include/borealis/extern/nanovg -I../library/include/borealis/extern/libretro-common -I../library/lib/extern/fmt/include -I../example -fdiagnostics-color=always -DNDEBUG -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -std=c++1z -O3 -g -O2 '-DBOREALIS_RESOURCES=\"./resources/\"' -MD -MQ 'borealis_example@exe/library_lib_hint.cpp.o' -MF 'borealis_example@exe/library_lib_hint.cpp.o.d' -o 'borealis_example@exe/library_lib_hint.cpp.o' -c ../library/lib/hint.cpp",
+    "file": "../library/lib/hint.cpp",
+    "output": "borealis_example@exe/library_lib_hint.cpp.o"
+  },
+  {
+    "directory": "/home/harry/Documents/GitHub/borealis/build",
+    "command": "c++ -Iborealis_example@exe -I. -I.. -I../library/include -I../library/include/borealis/extern/glad -I../library/include/borealis/extern/nanovg -I../library/include/borealis/extern/libretro-common -I../library/lib/extern/fmt/include -I../example -fdiagnostics-color=always -DNDEBUG -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -std=c++1z -O3 -g -O2 '-DBOREALIS_RESOURCES=\"./resources/\"' -MD -MQ 'borealis_example@exe/library_lib_scroll_view.cpp.o' -MF 'borealis_example@exe/library_lib_scroll_view.cpp.o.d' -o 'borealis_example@exe/library_lib_scroll_view.cpp.o' -c ../library/lib/scroll_view.cpp",
+    "file": "../library/lib/scroll_view.cpp",
+    "output": "borealis_example@exe/library_lib_scroll_view.cpp.o"
+  },
+  {
+    "directory": "/home/harry/Documents/GitHub/borealis/build",
+    "command": "c++ -Iborealis_example@exe -I. -I.. -I../library/include -I../library/include/borealis/extern/glad -I../library/include/borealis/extern/nanovg -I../library/include/borealis/extern/libretro-common -I../library/lib/extern/fmt/include -I../example -fdiagnostics-color=always -DNDEBUG -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -std=c++1z -O3 -g -O2 '-DBOREALIS_RESOURCES=\"./resources/\"' -MD -MQ 'borealis_example@exe/library_lib_absolute_layout.cpp.o' -MF 'borealis_example@exe/library_lib_absolute_layout.cpp.o.d' -o 'borealis_example@exe/library_lib_absolute_layout.cpp.o' -c ../library/lib/absolute_layout.cpp",
+    "file": "../library/lib/absolute_layout.cpp",
+    "output": "borealis_example@exe/library_lib_absolute_layout.cpp.o"
+  },
+  {
+    "directory": "/home/harry/Documents/GitHub/borealis/build",
+    "command": "c++ -Iborealis_example@exe -I. -I.. -I../library/include -I../library/include/borealis/extern/glad -I../library/include/borealis/extern/nanovg -I../library/include/borealis/extern/libretro-common -I../library/lib/extern/fmt/include -I../example -fdiagnostics-color=always -DNDEBUG -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -std=c++1z -O3 -g -O2 '-DBOREALIS_RESOURCES=\"./resources/\"' -MD -MQ 'borealis_example@exe/library_lib_task_manager.cpp.o' -MF 'borealis_example@exe/library_lib_task_manager.cpp.o.d' -o 'borealis_example@exe/library_lib_task_manager.cpp.o' -c ../library/lib/task_manager.cpp",
+    "file": "../library/lib/task_manager.cpp",
+    "output": "borealis_example@exe/library_lib_task_manager.cpp.o"
+  },
+  {
+    "directory": "/home/harry/Documents/GitHub/borealis/build",
+    "command": "c++ -Iborealis_example@exe -I. -I.. -I../library/include -I../library/include/borealis/extern/glad -I../library/include/borealis/extern/nanovg -I../library/include/borealis/extern/libretro-common -I../library/lib/extern/fmt/include -I../example -fdiagnostics-color=always -DNDEBUG -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -std=c++1z -O3 -g -O2 '-DBOREALIS_RESOURCES=\"./resources/\"' -MD -MQ 'borealis_example@exe/library_lib_notification_manager.cpp.o' -MF 'borealis_example@exe/library_lib_notification_manager.cpp.o.d' -o 'borealis_example@exe/library_lib_notification_manager.cpp.o' -c ../library/lib/notification_manager.cpp",
+    "file": "../library/lib/notification_manager.cpp",
+    "output": "borealis_example@exe/library_lib_notification_manager.cpp.o"
+  },
+  {
+    "directory": "/home/harry/Documents/GitHub/borealis/build",
+    "command": "c++ -Iborealis_example@exe -I. -I.. -I../library/include -I../library/include/borealis/extern/glad -I../library/include/borealis/extern/nanovg -I../library/include/borealis/extern/libretro-common -I../library/lib/extern/fmt/include -I../example -fdiagnostics-color=always -DNDEBUG -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -std=c++1z -O3 -g -O2 '-DBOREALIS_RESOURCES=\"./resources/\"' -MD -MQ 'borealis_example@exe/library_lib_repeating_task.cpp.o' -MF 'borealis_example@exe/library_lib_repeating_task.cpp.o.d' -o 'borealis_example@exe/library_lib_repeating_task.cpp.o' -c ../library/lib/repeating_task.cpp",
+    "file": "../library/lib/repeating_task.cpp",
+    "output": "borealis_example@exe/library_lib_repeating_task.cpp.o"
+  },
+  {
+    "directory": "/home/harry/Documents/GitHub/borealis/build",
+    "command": "c++ -Iborealis_example@exe -I. -I.. -I../library/include -I../library/include/borealis/extern/glad -I../library/include/borealis/extern/nanovg -I../library/include/borealis/extern/libretro-common -I../library/lib/extern/fmt/include -I../example -fdiagnostics-color=always -DNDEBUG -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -std=c++1z -O3 -g -O2 '-DBOREALIS_RESOURCES=\"./resources/\"' -MD -MQ 'borealis_example@exe/library_lib_swkbd.cpp.o' -MF 'borealis_example@exe/library_lib_swkbd.cpp.o.d' -o 'borealis_example@exe/library_lib_swkbd.cpp.o' -c ../library/lib/swkbd.cpp",
+    "file": "../library/lib/swkbd.cpp",
+    "output": "borealis_example@exe/library_lib_swkbd.cpp.o"
+  }
+]
